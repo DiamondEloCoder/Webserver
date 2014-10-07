@@ -1,0 +1,13 @@
+{
+	"name": "parcial2",
+	"version": "1.0",
+	"main": "main.js",
+	"contributors": [
+		{
+			"name": "Juan Carlos Toledo Stávoli"
+		}
+		{
+			"name": "Guillom Pillon"
+		}
+	],
+}
